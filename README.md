@@ -20,8 +20,6 @@ Once you've executed the command, type
 ```
 http://127.0.0.1:8080/
 ```
-this to connect to the website.
+this to connect to the website. :100:
 
 <img src="https://i.pinimg.com/originals/44/7b/58/447b58632ed20a98cb3c4be7f7473d9a.gif" style="width:700px"/>
-
-💯
