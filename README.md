@@ -3,6 +3,10 @@ This is my personal website that provides essential knowledge about Capture The 
 
 ##
 My website dedicated to Capture The Flag (CTF) competitions aims to be an all-encompassing resource for enthusiasts. It provides a platform where beginners can access comprehensive tutorials, guides, and resources to grasp the fundamentals of CTF competitions, while also serving as a community hub where participants can engage in discussions, share tips, and collaborate on solving challenges.
+### Installing the package
+```
+git clone https://github.com/Zwique/Zwique_website.git
+```
 
 ### Installing required Python libraries
 
